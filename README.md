@@ -40,5 +40,7 @@ I'm excited to be your Azure Support Engineer and look forward to helping you su
 Let's build amazing things together with Azure!
 
 Best regards,
+
 Precious Edmund
+
 Azure Support Engineer - Developer Vertical
